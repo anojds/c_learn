@@ -3,6 +3,7 @@
 int main(void) {
   float num1 = 0;float num2 = 0;float result = 0;
   printf("첫번째 실수 : ");
+  //scanf는 값을 입력 받을수 있는 입력함수
   scanf("%f", &num1);
 
   printf("두번째 실수 : ");
