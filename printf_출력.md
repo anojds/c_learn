@@ -32,3 +32,6 @@ int main(void) {
 > 'hello
 > 
 > world'가 출력 된다
+
+<br>
+리포지토리 source > 홍길동_printf.c 을 참고
