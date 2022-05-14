@@ -34,4 +34,4 @@ int main(void) {
 > world'가 출력 된다
 
 <br>
-리포지토리 source > 홍길동_printf.c 을 참고
+리포지토리 source > 홍길동_printf.c 를 참고
